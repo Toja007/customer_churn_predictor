@@ -34,3 +34,5 @@ The XGBClassifier was found to be the best performing model for predicting custo
 
 # Streamlit Application
 A Streamlit application named "customer_churn_app.py" is included in this repository. You can run the Streamlit app locally to interactively input customer information and see the model's predictions for customer churn.
+<img width="894" alt="chuo" src="https://github.com/Toja007/customer_churn_predictor/assets/131866743/01b4c6fd-0a73-43f4-a351-e7cff6c9b60d">
+
